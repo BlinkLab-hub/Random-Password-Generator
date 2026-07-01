@@ -69,7 +69,7 @@ Random-Password-Generator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BlinkLab-hub/random-password-generator.git
+https://github.com/BlinkLab-hub/Random-Password-Generator.git
 ```
 
 2. Navigate to the project folder:
